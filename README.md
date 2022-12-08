@@ -2,8 +2,8 @@
 
 ## Alumno/s
 
-- Alumno/a 1 (@usuariodeGitHub)
-- Alumno/a 2 (@usuariodeGitHub)
+- Alexis Lezcano (https://github.com/alexislezcano)
+- Adolfo Rafael Lang (https://github.com/lang-osta)
 
 ## Observaciones
 
