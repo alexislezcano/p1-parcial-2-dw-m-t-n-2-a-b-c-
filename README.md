@@ -3,7 +3,6 @@
 ## Alumno/s
 
 - Alexis Lezcano (https://github.com/alexislezcano)
-- Adolfo Rafael Lang (https://github.com/lang-osta)
 
 ## Observaciones
 
